@@ -10,7 +10,7 @@
   - node js
   - javascript ES6
   
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me
   - instagram: daniel.tan007
   - linkedin: https://www.linkedin.com/in/florensius-daniel-josef-138392199/
