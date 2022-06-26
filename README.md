@@ -14,6 +14,7 @@
 - 📫 How to reach me
   - instagram: daniel.tan007
   - linkedin: https://www.linkedin.com/in/florensius-daniel-josef-138392199/
+  - email : capricondaniel@gmail.com
 
 <!---
 danieltan007/danieltan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
