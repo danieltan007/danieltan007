@@ -1,14 +1,22 @@
 - 👋 Hi, I’m @danieltan007,
-  i'm junior web developer from indonesia!
+  i'm fullstack web developer from indonesia!
   
 - 👀 I’m interested in :
   - fullstack web development, especially MERN stack
   - security for my website
   
 - 🌱 I’m currently learning
-  - react js
-  - node js
-  - javascript ES6
+  - Next Js
+  - prisma ORM
+  - typescript
+  - postgres/mysql
+  - mongodb
+ 
+- My Stack :
+  - frontend: next js
+  - backend: express js
+  - database: postgres/mysql
+  - css framework: bootstrap/react-bootstrap
   
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me
