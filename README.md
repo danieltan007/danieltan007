@@ -6,10 +6,7 @@
   - security for my website
   
 - 🌱 I’m currently learning
-  - Next Js
-  - prisma ORM
   - typescript
-  - postgres/mysql
   - mongodb
  
 - My Stack :
