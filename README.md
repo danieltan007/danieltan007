@@ -6,8 +6,8 @@
   - security for my website
   
 - 🌱 I’m currently learning
-  - typescript
-  - mongodb
+  - advanced typescript
+  - security
  
 - My Stack :
   - frontend: next js
