@@ -2,22 +2,23 @@
   i'm fullstack web developer from indonesia!
   
 - 👀 I’m interested in :
-  - fullstack web development, especially MERN stack
+  - fullstack web development, especially using Next js
   - security for my website
   
 - 🌱 I’m currently learning
   - advanced typescript
   - security
+  - docker
+  - tailwind css
  
 - My Stack :
-  - frontend: next js
+  - frontend/fullstack: next js
   - backend: express js
   - database: postgres/mysql
-  - css framework: bootstrap/react-bootstrap
+  - css framework: mantine ui
   
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me
-  - instagram: daniel.tan007
   - linkedin: https://www.linkedin.com/in/florensius-daniel-josef-138392199/
   - email : capricondaniel@gmail.com
 
