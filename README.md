@@ -15,7 +15,7 @@
   - frontend/fullstack: next js
   - backend: express js
   - database: postgres/mysql
-  - css framework: mantine ui
+  - css framework: mantine ui, tailwind css
   
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me
